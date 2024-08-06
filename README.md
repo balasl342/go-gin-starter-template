@@ -48,10 +48,11 @@ MyApp is a sample Go application using the Gin framework, designed with a clean 
    cd myapp
 
 2. **Install dependencies:**
-    ```go mod tidy
+    ```sh
+    go mod tidy
 
 3. **Create configuration file:**
-    ```
+    ```sh
     Ensure you have a config.json file in the config directory with the necessary configuration.
 
 ## Running the Application
