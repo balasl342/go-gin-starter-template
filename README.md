@@ -1,6 +1,6 @@
-# MyApp
+# Go Gin Starter Template
 
-MyApp is a sample Go application using the Gin framework, designed with a clean and scalable project structure.
+go-gin-starter-template is a sample Go application using the Gin framework, designed with a clean and scalable project structure.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ MyApp is a sample Go application using the Gin framework, designed with a clean 
 - [License](#license)
 
 ## Project Structure
-```   myapp/
+```
     ├── cmd/
     │ └── server/
     │ └── main.go
