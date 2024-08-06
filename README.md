@@ -12,7 +12,7 @@ MyApp is a sample Go application using the Gin framework, designed with a clean 
 - [License](#license)
 
 ## Project Structure
--   myapp/
+```   myapp/
     ├── cmd/
     │ └── server/
     │ └── main.go
@@ -32,7 +32,7 @@ MyApp is a sample Go application using the Gin framework, designed with a clean 
     ├── go.sum
     ├── config/
     │ └── config.json
-
+```
 ## Requirements
 
 - [Go](https://golang.org/dl/) 1.18 or later
