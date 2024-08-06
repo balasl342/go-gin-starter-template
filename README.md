@@ -44,8 +44,7 @@ go-gin-starter-template is a sample Go application using the Gin framework, desi
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/myapp.git
-   cd myapp
+   git clone https://github.com/balasl342/go-gin-starter-template.git
 
 2. **Install dependencies:**
     ```sh
